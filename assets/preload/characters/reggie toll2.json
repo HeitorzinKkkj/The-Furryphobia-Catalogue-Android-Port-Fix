@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ben alt left"
+		},
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ben alt down"
+		},
+		{
+			"offsets": [
+				-10,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ben alt up"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ben alt right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ben whiteknight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-157
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "haha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/reggie furrytoll2",
+	"position": [
+		2890,
+		-190
+	],
+	"healthicon": "reggie",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		209,
+		209
+	],
+	"camera_position": [
+		-440,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

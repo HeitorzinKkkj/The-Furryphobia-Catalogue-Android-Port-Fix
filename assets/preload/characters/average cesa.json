@@ -1,0 +1,223 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				4
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck you",
+			"indices": [],
+			"name": "fuck you"
+		},
+		{
+			"offsets": [
+				99,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "warning",
+			"indices": [],
+			"name": "warning"
+		},
+		{
+			"offsets": [
+				54,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				90,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-5
+			],
+			"anim": "again",
+			"fps": 24,
+			"name": "surrounded",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "anoyed"
+		},
+		{
+			"offsets": [
+				98,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reach",
+			"indices": [],
+			"name": "reach"
+		},
+		{
+			"offsets": [
+				137,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk",
+			"loop": false,
+			"name": "talk"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/average cesar",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "cesarfuck",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		245,
+		245
+	],
+	"camera_position": [
+		-270,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

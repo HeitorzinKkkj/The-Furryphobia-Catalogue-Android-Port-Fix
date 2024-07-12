@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				4
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck you",
+			"indices": [],
+			"name": "fuck you"
+		},
+		{
+			"offsets": [
+				99,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "warning",
+			"indices": [],
+			"name": "warning"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "fuck",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				210,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-5
+			],
+			"anim": "again",
+			"fps": 24,
+			"name": "surrounded",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cesar hand",
+	"position": [
+		160,
+		460
+	],
+	"healthicon": "cesarfuck",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		245,
+		245
+	],
+	"camera_position": [
+		30,
+		-330
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

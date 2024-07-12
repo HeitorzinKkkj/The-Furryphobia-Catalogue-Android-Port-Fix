@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck you",
+			"indices": [],
+			"name": "fuck you"
+		},
+		{
+			"offsets": [
+				99,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "warning",
+			"indices": [],
+			"name": "warning"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "fuck",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				90,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-5
+			],
+			"anim": "again",
+			"fps": 24,
+			"name": "surrounded",
+			"indices": []
+		},
+		{
+			"offsets": [
+				69,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeah",
+			"indices": [],
+			"name": "yeah"
+		},
+		{
+			"offsets": [
+				65,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "cesar right miss"
+		},
+		{
+			"offsets": [
+				89,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "cesar left miss"
+		},
+		{
+			"offsets": [
+				51,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "cesar up miss"
+		},
+		{
+			"offsets": [
+				106,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "cesar down miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				112
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dying lol",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				49,
+				118
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dying idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				112
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "accept",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rcesar",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "markcesar",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		245,
+		245
+	],
+	"camera_position": [
+		440,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISS RIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS LEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				-4,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS DOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				80,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				89,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				1
+			],
+			"anim": "warning",
+			"fps": 24,
+			"name": "warning",
+			"indices": []
+		},
+		{
+			"offsets": [
+				115,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "fuck"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "again",
+			"indices": [],
+			"name": "surrounded"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				2
+			],
+			"anim": "give up",
+			"fps": 24,
+			"name": "give uo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rreggie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kisserreggie",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		245,
+		245
+	],
+	"camera_position": [
+		130,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
