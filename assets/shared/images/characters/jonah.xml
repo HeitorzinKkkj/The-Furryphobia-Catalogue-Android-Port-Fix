@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jonah.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="317" height="332"/>
+	<SubTexture name="down0001" x="0" y="0" width="317" height="332"/>
+	<SubTexture name="down0002" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0003" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0004" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0005" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0006" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0007" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0008" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0009" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0010" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0011" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0012" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0013" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="down0014" x="317" y="0" width="317" height="332"/>
+	<SubTexture name="get shit on0000" x="634" y="0" width="317" height="337" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0001" x="634" y="0" width="317" height="337" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0002" x="951" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0003" x="1268" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0004" x="1585" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0005" x="1902" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0006" x="1902" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0007" x="2219" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0008" x="2536" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0009" x="2536" y="0" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0010" x="2853" y="0" width="317" height="335" frameX="0" frameY="0" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0011" x="2853" y="0" width="317" height="335" frameX="0" frameY="0" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0012" x="3170" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0013" x="3170" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0014" x="3487" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0015" x="3487" y="0" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0016" x="0" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0017" x="0" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0018" x="317" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0019" x="317" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0020" x="317" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0021" x="317" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0022" x="317" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0023" x="634" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0024" x="634" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0025" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0026" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0027" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0028" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0029" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0030" x="1585" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0031" x="1902" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0032" x="1902" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0033" x="1902" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0034" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0035" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0036" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0037" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0038" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0039" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0040" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0041" x="951" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0042" x="1268" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0043" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0044" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0045" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0046" x="2219" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0047" x="2536" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0048" x="2536" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0049" x="2853" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0050" x="2853" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0051" x="3170" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0052" x="3170" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0053" x="3170" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0054" x="3170" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0055" x="3170" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0056" x="3487" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0057" x="3487" y="337" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0058" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0059" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0060" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0061" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0062" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0063" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0064" x="0" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0065" x="317" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0066" x="317" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0067" x="634" y="669" width="317" height="335" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0068" x="951" y="669" width="317" height="335" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0069" x="1268" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0070" x="1585" y="669" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0071" x="1902" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0072" x="2219" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0073" x="2219" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0074" x="2536" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0075" x="2536" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0076" x="2853" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0077" x="2853" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0078" x="1902" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0079" x="1902" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0080" x="2219" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0081" x="3170" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0082" x="3170" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0083" x="3170" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0084" x="3487" y="669" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0085" x="3487" y="669" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0086" x="2853" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0087" x="1902" y="669" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0088" x="0" y="1004" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0089" x="0" y="1004" width="317" height="334" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0090" x="317" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0091" x="317" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0092" x="317" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0093" x="317" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0094" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0095" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0096" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0097" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0098" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0099" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0100" x="634" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0101" x="951" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0102" x="951" y="1004" width="317" height="333" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0103" x="1268" y="1004" width="317" height="351" frameX="0" frameY="-1" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0104" x="1268" y="1004" width="317" height="351" frameX="0" frameY="-1" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0105" x="1585" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0106" x="1585" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0107" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0108" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0109" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0110" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0111" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0112" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0113" x="2219" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0114" x="2219" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0115" x="2536" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0116" x="2536" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0117" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0118" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0119" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0120" x="1902" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0121" x="2853" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0122" x="2853" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0123" x="3170" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0124" x="3170" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0125" x="3487" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0126" x="3487" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0127" x="3487" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0128" x="0" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0129" x="0" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0130" x="317" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0131" x="317" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0132" x="634" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0133" x="634" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0134" x="3487" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0135" x="3487" y="1004" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0136" x="0" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0137" x="0" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0138" x="317" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0139" x="317" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0140" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0141" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0142" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0143" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0144" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0145" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0146" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0147" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0148" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0149" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0150" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0151" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0152" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0153" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="get shit on0154" x="951" y="1355" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="352"/>
+	<SubTexture name="idle0000" x="1268" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0001" x="1268" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0002" x="1585" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0003" x="1585" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0004" x="1902" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0005" x="1902" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0006" x="2219" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0007" x="2219" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0008" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0009" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0010" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0011" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0012" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0013" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="idle0014" x="2536" y="1355" width="317" height="332"/>
+	<SubTexture name="left0000" x="2853" y="1355" width="317" height="332"/>
+	<SubTexture name="left0001" x="2853" y="1355" width="317" height="332"/>
+	<SubTexture name="left0002" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0003" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0004" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0005" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0006" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0007" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0008" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0009" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0010" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0011" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0012" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0013" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="left0014" x="3170" y="1355" width="317" height="332"/>
+	<SubTexture name="right0000" x="3487" y="1355" width="317" height="332"/>
+	<SubTexture name="right0001" x="3487" y="1355" width="317" height="332"/>
+	<SubTexture name="right0002" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0003" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0004" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0005" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0006" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0007" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0008" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0009" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0010" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0011" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0012" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0013" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="right0014" x="0" y="1687" width="317" height="332"/>
+	<SubTexture name="up0000" x="317" y="1687" width="317" height="335"/>
+	<SubTexture name="up0001" x="317" y="1687" width="317" height="335"/>
+	<SubTexture name="up0002" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0003" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0004" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0005" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0006" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0007" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0008" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0009" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0010" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0011" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0012" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0013" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+	<SubTexture name="up0014" x="634" y="1687" width="317" height="332" frameX="0" frameY="-3" frameWidth="317" frameHeight="335"/>
+</TextureAtlas>

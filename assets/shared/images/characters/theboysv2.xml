@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theboysv2.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the boys0000" x="0" y="0" width="1433" height="526" frameX="0" frameY="-26" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0001" x="0" y="0" width="1433" height="526" frameX="0" frameY="-26" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0002" x="1433" y="0" width="1425" height="533" frameX="-4" frameY="-19" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0003" x="1433" y="0" width="1425" height="533" frameX="-4" frameY="-19" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0004" x="0" y="533" width="1417" height="541" frameX="-8" frameY="-11" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0005" x="0" y="533" width="1417" height="541" frameX="-8" frameY="-11" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0006" x="1417" y="533" width="1407" height="550" frameX="-13" frameY="-2" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0007" x="1417" y="533" width="1407" height="550" frameX="-13" frameY="-2" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0008" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0009" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0010" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0011" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0012" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0013" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+	<SubTexture name="the boys0014" x="0" y="1083" width="1401" height="552" frameX="-16" frameY="0" frameWidth="1433" frameHeight="552"/>
+</TextureAtlas>
