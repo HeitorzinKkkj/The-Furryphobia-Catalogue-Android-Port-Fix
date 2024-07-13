@@ -1,0 +1,4 @@
+Value 1: The Lyrics you want to appear. 
+
+
+value 2: The Color of the Lyrics Text. (Hex Code)
