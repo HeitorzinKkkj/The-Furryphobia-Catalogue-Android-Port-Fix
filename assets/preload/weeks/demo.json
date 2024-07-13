@@ -1,0 +1,77 @@
+{
+	"storyName": "THE DEMO WEEK YAHOOOOOOOOOOOO",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "furry",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"furry-phobia-V2",
+			"boykisser",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"unsual-fear",
+			"boykisser",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"boysT",
+			"reggie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"average-furry",
+			"markusv2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"furry-toll",
+			"reggie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stand-for-your-life",
+			"kisserreggie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "THE KISSER WEEK"
+}
