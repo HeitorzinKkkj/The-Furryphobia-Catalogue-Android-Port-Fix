@@ -1,0 +1,9 @@
+Value 1: Pixel value (1 or all numbers)
+0 is default
+
+Value 2: Time (0.2 or 0.001 recommended)
+
+ATTENTION!!
+Make sure the shader is already enabled
+
+By HaxePixel                                       
