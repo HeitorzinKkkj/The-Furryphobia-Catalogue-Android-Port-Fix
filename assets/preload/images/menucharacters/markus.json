@@ -1,0 +1,11 @@
+{
+	"idle_anim": "markmenu",
+	"image": "markus",
+	"position": [
+		0,
+		226
+	],
+	"flipX": false,
+	"scale": 0.48,
+	"confirm_anim": "M Dad Idle"
+}

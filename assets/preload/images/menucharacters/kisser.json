@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idlemenu",
+	"image": "kisser",
+	"position": [
+		135,
+		115
+	],
+	"flipX": false,
+	"scale": 0.53,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kisser.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idlemenu0000" x="0" y="0" width="499" height="614" frameX="-2" frameY="-1" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0001" x="0" y="0" width="499" height="614" frameX="-2" frameY="-1" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0002" x="499" y="0" width="492" height="614" frameX="0" frameY="-1" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0003" x="499" y="0" width="492" height="614" frameX="0" frameY="-1" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0004" x="991" y="0" width="486" height="613" frameX="0" frameY="-2" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0005" x="991" y="0" width="486" height="613" frameX="0" frameY="-2" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0006" x="1477" y="0" width="479" height="615" frameX="0" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0007" x="1477" y="0" width="479" height="615" frameX="0" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0008" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0009" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0010" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0011" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0012" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0013" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0014" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0015" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0016" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0017" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0018" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+	<SubTexture name="idlemenu0019" x="0" y="615" width="473" height="615" frameX="-1" frameY="0" frameWidth="501" frameHeight="615"/>
+</TextureAtlas>
